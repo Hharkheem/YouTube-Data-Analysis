@@ -71,4 +71,4 @@ Contributions are welcome! If you have suggestions for improvement or want to ad
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-If you have any questions or need further assistance, please contact me at [your email address].
+If you have any questions or need further assistance, please contact me at hakeemsal@hotmail.com.
