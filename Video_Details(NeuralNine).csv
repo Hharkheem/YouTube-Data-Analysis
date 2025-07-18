@@ -1,0 +1,631 @@
+,Title,Published_date,Views,Likes,Comments,Month
+0,"Modern Machine Learning Apps with Streamlit - No HTML, CSS, JS",2023-07-11,3005,200,16,Jul
+1,"UPDATE, DELETE, ALTER - SQL Tutorial Series #2",2023-07-09,1063,79,19,Jul
+2,"CREATE, SELECT, INSERT - SQL Tutorial Series #1",2023-07-07,2207,153,17,Jul
+3,Transfer Learning with Tensorflow in Python,2023-07-05,2370,129,10,Jul
+4,Professional Python Testing with Mocks,2023-07-03,3676,178,8,Jul
+5,Matplotlib Full Python Course - Data Science Fundamentals,2023-07-01,4585,328,18,Jul
+6,"Everyone Loves Rust, Nobody Likes MATLAB - Stackoverflow Survey 2023",2023-06-29,2456,109,13,Jun
+7,GPT Function Calling: Absolute Game Changer,2023-06-27,6300,278,22,Jun
+8,K-Means Clustering From Scratch in Python (Mathematical),2023-06-25,2605,148,5,Jun
+9,OpenAI Embeddings For Recommendations Systems,2023-06-23,2118,92,12,Jun
+10,Pseudo-Random Number Generator From Scratch in Python,2023-06-21,1816,114,12,Jun
+11,Image Segmentation with K-Means Clustering in Python,2023-06-19,2901,180,7,Jun
+12,This One Took Some Time... | Let's Code Codewars,2023-06-17,3230,136,12,Jun
+13,Generating ACTUALLY Random Numbers in Python,2023-06-15,4002,253,13,Jun
+14,HTTP Status Codes Simply Explained in Flask,2023-06-13,2296,141,12,Jun
+15,MongoDB in Python - NoSQL Document Database,2023-06-11,5741,258,29,Jun
+16,Dropbox Automation For Backups in Python,2023-06-09,2385,137,13,Jun
+17,Linux File System Simply Explained,2023-06-07,5695,301,23,Jun
+18,"Dynamic Attribute Handling in Python: getattr(), setattr(), hasattr(), delattr()",2023-06-05,3438,233,13,Jun
+19,Wheel Files: Packaging Python Applications & Modules,2023-06-03,4828,260,19,Jun
+20,Base64 Encoding Binary Files in Python,2023-06-01,3825,209,19,Jun
+21,Convert Videos To MP3 with FFmpeg in Python,2023-05-30,3517,172,7,May
+22,5 Awesome Linux Terminal Tools You Must Know,2023-05-28,85513,2734,92,May
+23,Google Calendar Automation in Python,2023-05-26,5640,234,11,May
+24,Advanced Dictionaries: defaultdict in Python,2023-05-24,7044,380,23,May
+25,Render Math Formulas From LaTeX in Python,2023-05-22,3743,195,16,May
+26,Transcribe Audio Files with OpenAI Whisper,2023-05-20,7191,294,20,May
+27,Taking The StackOverflow Developer Survey 2023,2023-05-18,1934,88,7,May
+28,Create & Manage Cookies in Flask and Python,2023-05-16,2510,137,7,May
+29,Create Your Own Custom MoviePy Animations,2023-05-14,5567,250,20,May
+30,MapReduce Jobs For Distributed Hadoop Clusters in Python,2023-05-12,3012,133,9,May
+31,Analyze Text Readability & Complexity in Python,2023-05-10,2611,133,7,May
+32,RSA Encryption From Scratch - Math & Python Code,2023-05-08,4757,299,26,May
+33,Let's Code Codewars - New Coding Challenges,2023-05-06,4587,188,23,May
+34,Automatically Install Dependencies From Python Code,2023-05-04,8463,457,18,May
+35,Load Environment Variables From .env Files in Python,2023-05-02,8999,381,20,May
+36,URL Shortener in Flask with Python,2023-04-30,4697,223,14,Apr
+37,Marks in Vim Are A Game Changer,2023-04-28,4079,166,13,Apr
+38,Properly Load & Manage API Keys in Python,2023-04-26,7088,390,26,Apr
+39,Flask Blueprints Make Your Apps Modular & Professional,2023-04-24,6696,311,14,Apr
+40,How To Read Documentations For Beginners,2023-04-22,11461,604,20,Apr
+41,Massively Speed-Up SQL Queries with Indexes,2023-04-20,5620,303,21,Apr
+42,Gradient Descent From Scratch in Python - Visual Explanation,2023-04-18,5767,275,16,Apr
+43,Easiest Way To Install Stable Diffusion & Generate AI Images,2023-04-16,5210,251,26,Apr
+44,Python Interface Definitions & Stub Files For Professional Development,2023-04-14,4849,292,12,Apr
+45,Professional Weather App with Django in Python,2023-04-12,13049,528,27,Apr
+46,Dockerize Python Applications with GUI,2023-04-10,8261,343,15,Apr
+47,Simple Bluetooth Chat in Python,2023-04-08,12474,682,36,Apr
+48,Professional Authentication System with Descope in Python Flask,2023-04-06,4585,211,7,Apr
+49,Deep Reinforcement Learning with OpenAI Gym in Python,2023-04-04,13873,394,46,Apr
+50,Sign Emails with Certificates & S/MIME in Python,2023-04-02,2946,162,7,Apr
+51,GPT-3.5 vs GPT-4: Which AI is Better at Complex Machine Learning Tasks?,2023-03-31,8392,279,14,Mar
+52,Generate AI Images with OpenAI DALL-E in Python,2023-03-29,11894,326,9,Mar
+53,Encrypt SQLite Databases with SQLCipher,2023-03-27,4832,242,8,Mar
+54,Hashing in Python: Using Hashlib Library for Secure Hashing,2023-03-25,8831,446,18,Mar
+55,Google Sheets API Automation in Python,2023-03-23,18628,567,27,Mar
+56,Live Face Recognition in Python,2023-03-21,30607,871,48,Mar
+57,Use OpenAI's ChatGPT in Python,2023-03-19,27240,962,42,Mar
+58,K-Nearest Neighbors Classification From Scratch in Python (Mathematical),2023-03-17,4985,273,5,Mar
+59,AI Custom Drawings Classifier with Python,2023-03-15,4453,187,10,Mar
+60,Fake News Detection in Python,2023-03-13,9395,363,24,Mar
+61,Polling Application with Flask - Beginner Project,2023-03-11,6134,243,17,Mar
+62,Text Generation AI - Next Word Prediction in Python,2023-03-09,11574,379,17,Mar
+63,PostgreSQL in Python - Crash Course,2023-03-07,15944,598,22,Mar
+64,Simple Todo List App in Flask - Beginner Project,2023-03-05,12089,451,33,Mar
+65,Anomaly Detection For Time Series Data in Python,2023-03-03,11429,383,11,Mar
+66,Laptop Price Prediction with Python,2023-03-01,6820,269,21,Mar
+67,Find Celebrity Lookalikes with DeepFace in Python,2023-02-27,3212,150,8,Feb
+68,Age & Gender Prediction with DeepFace in Python,2023-02-25,8315,334,27,Feb
+69,Predicting CS:GO Round Winner with Machine Learning,2023-02-23,5943,259,18,Feb
+70,Generating Realistic AI Images with Stable Diffusion,2023-02-21,8042,255,18,Feb
+71,Pynecone: The Python-Only Web Framework,2023-02-19,19392,749,42,Feb
+72,Code Faster and Smarter: 10 PyCharm Snippets to Speed Up Your Game,2023-02-17,4599,227,14,Feb
+73,Build Your Own Financial Dashboard with Python,2023-02-15,19046,731,41,Feb
+74,Mastering Python Code Quality with Pylint,2023-02-13,10836,514,24,Feb
+75,Command-Line Python Debugging with pdb,2023-02-11,6710,308,9,Feb
+76,Advanced Exception Handling in Python,2023-02-09,17107,795,29,Feb
+77,Graph Embedding For Machine Learning in Python,2023-02-07,6655,301,8,Feb
+78,Matchmaking System For Games in Python,2023-02-05,5877,246,9,Feb
+79,NeoVim Installation & Config on Windows,2023-02-03,30595,532,32,Feb
+80,NetworkX Crash Course - Graph Theory in Python,2023-02-01,20351,698,36,Feb
+81,Coding Tic-Tac-Toe Game with ChatGPT in Python,2023-01-30,9523,302,25,Jan
+82,Chocolatey is The Package Manager For Windows,2023-01-28,13123,357,20,Jan
+83,Professional Webhooks with Flask in Python,2023-01-26,12572,416,12,Jan
+84,Makefiles in Python For Professional Automation,2023-01-24,21904,1085,39,Jan
+85,Simple FTP Server in Python,2023-01-22,12783,517,23,Jan
+86,Python Speed Comparison: Faster Than We Thought?!,2023-01-20,10684,507,80,Jan
+87,Python Case Types and Naming Conventions,2023-01-18,4802,310,17,Jan
+88,Professional Project & Dependency Management in Python,2023-01-16,14731,566,12,Jan
+89,Professional Expense Tracker in Python,2023-01-14,16824,617,25,Jan
+90,Massively Speed Up Requests with HTTPX in Python,2023-01-12,10155,699,26,Jan
+91,Python Threading Explained in 8 Minutes,2023-01-10,39411,1533,46,Jan
+92,Professional Command-Line Tools with Click-Shell,2023-01-08,7207,475,15,Jan
+93,Optimize Your Python Programs: Code Profiling with cProfile,2023-01-06,12805,463,21,Jan
+94,Telegram Birthday Bot in Python - Never Forget One Again,2023-01-04,7482,295,18,Jan
+95,Dive Into The Details: Disassembling Python Code,2023-01-02,7581,376,20,Jan
+96,Python's @ Operator: The Key to Better Readability in Matrix Operations,2022-12-31,9012,445,15,Dec
+97,For-Else: An Underused Python Statement,2022-12-29,7731,509,25,Dec
+98,ChatGPT Will Not Replace Us... YET!,2022-12-27,7652,287,43,Dec
+99,Plotnine: A Different Approach To Data Visualization in Python,2022-12-25,8398,381,14,Dec
+100,Scheduling Tasks Professionally in Python,2022-12-23,32984,1310,56,Dec
+101,Working with YAML Files in Python,2022-12-21,20057,595,8,Dec
+102,Containerize Python Applications with Docker,2022-12-19,38220,1247,49,Dec
+103,Encrypted File Transfer via Sockets in Python,2022-12-17,11419,492,20,Dec
+104,Automated Options Trading Bot in Python,2022-12-15,13630,420,15,Dec
+105,Pointers in Python Are A Real Thing,2022-12-13,12991,550,29,Dec
+106,Requests Library in Python - Beginner Crash Course,2022-12-11,18880,696,25,Dec
+107,Real-Time Spelling Checker in Python,2022-12-09,9443,404,9,Dec
+108,Neural Networks Made Simple with Tensorflow Playground,2022-12-07,8582,394,17,Dec
+109,What's New in Python 3.11?,2022-12-05,12661,518,18,Dec
+110,Two-Factor Authentication (2FA) in Python,2022-12-03,19497,1040,29,Dec
+111,Processing & Handling Signals in Python,2022-12-01,13257,494,23,Dec
+112,Rotating Proxies For Web Requests in Python,2022-11-29,24065,974,25,Nov
+113,Interactive Web Visualizations with Bokeh in Python,2022-11-27,18035,577,25,Nov
+114,House Price Prediction in Python - Full Machine Learning Project,2022-11-25,60238,1412,69,Nov
+115,Coding Web Crawler in Python with Scrapy,2022-11-23,46897,1154,18,Nov
+116,Modern Graphical User Interfaces in Python,2022-11-21,865446,23612,483,Nov
+117,Run Python Code From Excel with VBA,2022-11-19,15930,480,15,Nov
+118,Secure Login System in Python,2022-11-17,48230,1460,77,Nov
+119,WHOIS Domain Lookup Tool in Python,2022-11-15,6271,304,11,Nov
+120,Load Database Tables Into Pandas,2022-11-13,9854,419,16,Nov
+121,Coding Encrypted Chat in Python,2022-11-11,24686,981,24,Nov
+122,Backtesting Stock Trading Strategies in Python,2022-11-09,10961,336,15,Nov
+123,Context Managers in Python Make Life Easier,2022-11-07,8937,390,12,Nov
+124,Margin Crypto Trading Bots with Trality,2022-11-05,4782,172,11,Nov
+125,Professional Dependency Management with Pipfiles,2022-11-03,7850,402,12,Nov
+126,Motion Detection Alarm System in Python,2022-11-01,19642,881,41,Nov
+127,Convert Text To Binary in Python,2022-10-30,9521,461,27,Oct
+128,Predicting Stock Prices with FBProphet in Python,2022-10-28,16074,505,32,Oct
+129,SQLAlchemy Turns Python Objects Into Database Entries,2022-10-26,66620,1516,68,Oct
+130,Advanced Stopwatch in Python,2022-10-24,7039,245,11,Oct
+131,Voice Assistant with Wake Word in Python,2022-10-22,48314,1390,88,Oct
+132,Railyway is The New Heroku,2022-10-20,11826,454,20,Oct
+133,Using IPv6 Sockets in Python,2022-10-18,5473,274,9,Oct
+134,Simple Automated SSH Python Bot,2022-10-16,15869,596,34,Oct
+135,Google Colab Introduction For Machine Learning,2022-10-14,11498,415,14,Oct
+136,Process HUGE Data Sets in Pandas,2022-10-12,15322,612,26,Oct
+137,OpenSSH Server Setup in WSL,2022-10-10,9126,224,18,Oct
+138,Use Python Inside of R,2022-10-08,5224,189,22,Oct
+139,Automated Excel Bot in Python,2022-10-06,16510,647,18,Oct
+140,Speeding Up Vim Startup Time,2022-10-04,2938,98,5,Oct
+141,Graphical Python Programming For Beginners with Turtle,2022-10-02,10976,385,15,Oct
+142,QR Code Scanner & Generator with GUI in Python,2022-09-30,10227,363,20,Sep
+143,Packaging Data Using Structs in Python,2022-09-28,11691,386,18,Sep
+144,Controlling Your PC's Volume with Python,2022-09-26,9608,277,40,Sep
+145,Decimal Module in Python For Accurate Floats,2022-09-24,8546,249,13,Sep
+146,Automatic OCR Receipt & Invoice Parsing in Python,2022-09-22,21333,591,16,Sep
+147,Simple Voice Recorder with GUI in Python,2022-09-20,7558,313,19,Sep
+148,Make SQL Queries Secure in Python,2022-09-18,10583,496,16,Sep
+149,XPath Crash Course For Python Web Scraping,2022-09-16,12421,512,21,Sep
+150,Deploy Your Discord Python Bot For Free,2022-09-14,7265,240,32,Sep
+151,File Transfer via Sockets in Python,2022-09-12,27201,980,66,Sep
+152,Splitting PDF Files with Python,2022-09-10,5240,214,15,Sep
+153,How To Use Joysticks & Controllers in PyGame,2022-09-08,9861,269,17,Sep
+154,Camera Recording Tool in Python,2022-09-06,6785,349,18,Sep
+155,Merge PDF Files in Python,2022-09-04,7322,381,19,Sep
+156,PyScript is Python in Your Browser,2022-09-02,19456,781,43,Sep
+157,Windows Registry in Python,2022-08-31,7428,357,26,Aug
+158,Extract PDF Content with Python,2022-08-29,73048,1536,57,Aug
+159,Selenium Browser Automation in Python,2022-08-27,75444,1575,80,Aug
+160,RSA Private & Public Key Encryption in Python,2022-08-25,26954,786,35,Aug
+161,Regular Expressions in Python,2022-08-23,34714,958,33,Aug
+162,Visualizing Excel Files Easily With Python,2022-08-21,12943,500,19,Aug
+163,Simple Instagram Bot in Python,2022-08-19,34064,851,57,Aug
+164,StackOverflow Developer Survey 2022 - Casual Review,2022-08-17,3164,140,20,Aug
+165,Hidden Password Input in Python,2022-08-15,9893,410,22,Aug
+166,Obfuscate Python Code With PyArmor,2022-08-13,27363,692,62,Aug
+167,5 Awesome PyCharm Tricks / Features,2022-08-11,10046,350,9,Aug
+168,Replace Excel With Pandas,2022-08-09,9611,376,17,Aug
+169,Auto-Translating Chat in Python,2022-08-07,5105,350,17,Aug
+170,Generate Unique IDs in Python (UUIDs),2022-08-05,8507,292,8,Aug
+171,SQL Queries For Pandas DataFrames,2022-08-03,16318,475,20,Aug
+172,Parallelize Python Tasks with Joblib,2022-08-01,13883,614,33,Aug
+173,Professional Progress Bars in Python,2022-07-30,16681,645,15,Jul
+174,Thread Pools in Python - Asynchronous Programming,2022-07-28,12606,514,13,Jul
+175,Swifter Speeds Up Pandas DataFrames,2022-07-26,5639,287,13,Jul
+176,Professional Benchmarking in Python,2022-07-24,6217,248,9,Jul
+177,GPS Location From Image Metadata in Python,2022-07-22,13756,599,24,Jul
+178,Be Careful When Using exec() or eval() in Python,2022-07-20,7227,339,16,Jul
+179,Makefiles Make Your Life Easier,2022-07-18,19155,658,32,Jul
+180,Fuzzy File Searching Tool in Python,2022-07-16,6345,337,14,Jul
+181,Professional CLI Applications with Click,2022-07-14,29298,776,23,Jul
+182,Simple Image Viewer in Python,2022-07-12,9796,305,24,Jul
+183,Mitosheet Makes DataFrames Easier,2022-07-10,6585,333,16,Jul
+184,Hardware Information Tool in Python,2022-07-08,10338,514,19,Jul
+185,Importing Your Own Python Modules Properly,2022-07-06,88533,1898,78,Jul
+186,Fix Memory Leaks in C Code with Valgrind,2022-07-04,12049,311,13,Jul
+187,Debugging C Programs with GDB,2022-07-02,10681,326,21,Jul
+188,UndoTree - The Mind-Blowing Vim Plugin,2022-06-30,3807,130,11,Jun
+189,Simple UDP Chat Room in Python,2022-06-28,13566,431,23,Jun
+190,CPU & RAM Usage Monitor in Python,2022-06-26,22277,913,41,Jun
+191,Split Screen Videos with MoviePy,2022-06-24,8063,413,25,Jun
+192,Virtual Environments in Python - Crash Course,2022-06-22,27598,886,25,Jun
+193,Word File Processing in Python,2022-06-20,27267,678,35,Jun
+194,THIS is How Amber Heard Got Caught Lying - Metadata Analysis in Python,2022-06-18,10905,594,28,Jun
+195,Automatically Visualize Datasets with AutoViz in Python,2022-06-16,13832,594,11,Jun
+196,Custom Keyboard Shortcuts on Windows with AutoHotKey,2022-06-14,9985,282,45,Jun
+197,Technical Stock Analysis Made Easy in Python,2022-06-12,28259,775,19,Jun
+198,Color Name Detector in Python,2022-06-10,5299,249,10,Jun
+199,Image Compression Using PCA in Python,2022-06-08,8310,293,15,Jun
+200,Markdown Crash Course - Beginner Tutorial,2022-06-06,11166,477,18,Jun
+201,Calculating Text Similarity in Python with NLP,2022-06-04,23543,656,21,Jun
+202,Extracting Dominant Colors From Images in Python,2022-06-02,11975,422,17,Jun
+203,Stock Price Alarm Bot in Python,2022-05-31,9427,378,19,May
+204,Visualizing Decision Trees in Python,2022-05-29,8779,365,10,May
+205,Plotting in Command Line With Python,2022-05-27,8437,262,8,May
+206,Visualize Stock Market Maps in Python,2022-05-25,5451,262,12,May
+207,Jupyter Lab is AWESOME For Data Science,2022-05-23,41366,1118,39,May
+208,Democratic Machine Learning With Voting Classifiers,2022-05-21,4256,225,5,May
+209,Custom Color Maps in Matplotlib,2022-05-19,11542,288,12,May
+210,Type Hinting Makes Your Code More Professional,2022-05-17,8143,390,16,May
+211,Interactive Python Plots With IPyWidgets,2022-05-15,23351,702,27,May
+212,SymPy is REVOLUTIONARY For Mathematical Tasks,2022-05-13,53555,1935,122,May
+213,Animating Statistical Data in Python,2022-05-11,5627,281,14,May
+214,Online Web Chat in Python With Flask,2022-05-09,48592,1176,53,May
+215,Windows Notifications in Python,2022-05-07,19570,816,41,May
+216,Jupyter Notebooks Are What You Need For Data Science,2022-05-05,7648,334,17,May
+217,Connect Python Scripts To Internet With Ngrok,2022-05-03,23959,825,32,May
+218,System Tray Icon in Python,2022-05-01,17313,735,27,May
+219,Conway's Game of Life in Python,2022-04-29,28511,829,51,Apr
+220,Morse Code in Python,2022-04-27,9635,448,20,Apr
+221,Host Python Web Apps For Free,2022-04-25,30862,702,37,Apr
+222,Progress Bars in Python Terminal,2022-04-23,85839,3366,144,Apr
+223,Auto Clicker Bot in Python,2022-04-21,58444,1258,97,Apr
+224,Web Scraping with Professional Proxy Servers in Python,2022-04-19,32986,867,44,Apr
+225,Seaborn Is The Easier Matplotlib,2022-04-17,104405,3169,54,Apr
+226,Does Pydantic Replace Dataclasses in Python?,2022-04-15,19530,677,28,Apr
+227,Statistics Fundamentals in Python,2022-04-13,14477,425,14,Apr
+228,Generating Professional Sample Data with Faker in Python,2022-04-11,12893,478,15,Apr
+229,Partial Functions in Python - Functools Tutorial,2022-04-09,10259,383,24,Apr
+230,Config Files & Parsing in Python,2022-04-07,37707,677,31,Apr
+231,Handling Multiple Timezones in Python,2022-04-05,6232,231,16,Apr
+232,Create Fancy Word Clouds in Python,2022-04-03,11653,548,25,Apr
+233,Automated Video Editing with MoviePy in Python,2022-04-01,53847,1477,51,Apr
+234,Debugging Python Code Tutorial,2022-03-30,17438,399,22,Mar
+235,Weather API Tutorial in Python,2022-03-28,44526,1012,68,Mar
+236,Python Itertools For Advanced Iteration,2022-03-26,7864,402,19,Mar
+237,Locking & Synchronizing Threads in Python,2022-03-24,8445,273,16,Mar
+238,Breast Cancer Detection with Python,2022-03-22,10538,309,43,Mar
+239,Professional Preprocessing with Pipelines in Python,2022-03-20,25993,807,38,Mar
+240,Precision & Recall in Machine Learning Explained,2022-03-18,2409,101,13,Mar
+241,Kraken Trading Bot in Python,2022-03-16,16431,446,25,Mar
+242,Automated Google Drive Backups in Python,2022-03-14,15220,521,47,Mar
+243,Polynomial Regression in Python,2022-03-12,20873,577,18,Mar
+244,Studying Algorithms in Python,2022-03-10,15598,664,30,Mar
+245,Automated Crypto Trading Bots with Trality,2022-03-08,11861,391,17,Mar
+246,Counters in Python Simply Explained,2022-03-06,12739,404,18,Mar
+247,Calorie Tracker in Python - Data Visualization Project,2022-03-04,12118,432,16,Mar
+248,Password Manager in Python,2022-03-02,37680,917,55,Mar
+249,Bandwidth Monitor in Python,2022-02-28,18533,697,34,Feb
+250,Simple Face Detection in Python,2022-02-26,52738,1142,42,Feb
+251,Vim Snippets Are Next Level,2022-02-24,9575,250,13,Feb
+252,Heaps & Priority Queues in Python,2022-02-22,22919,502,13,Feb
+253,Fingerprint Matching in Python,2022-02-20,54839,1128,60,Feb
+254,Analyzing Stock Price Correlations in Python,2022-02-18,10641,483,30,Feb
+255,Hyperparameter Tuning in Python with GridSearchCV,2022-02-16,7812,250,9,Feb
+256,Titanic Survival Prediction in Python - Machine Learning Project,2022-02-14,35473,818,54,Feb
+257,Simulating Real-Life Processes in Python,2022-02-12,40799,982,23,Feb
+258,Binary Search Tree in Python,2022-02-10,18861,589,26,Feb
+259,NumPy Full Python Course - Data Science Fundamentals,2022-02-08,23068,935,41,Feb
+260,Professional Tables in Python,2022-02-06,46458,955,27,Feb
+261,Compiling & Decompiling Python Scripts,2022-02-04,30554,557,47,Feb
+262,The Perfect Logic Riddle For Computer Scientists,2022-02-02,5080,326,33,Feb
+263,Image Filters & Effects in Python,2022-01-31,7682,282,14,Jan
+264,Fuzzy String Matching in Python,2022-01-29,34800,928,19,Jan
+265,Vimium Is Vim For Your Browser,2022-01-27,13502,359,25,Jan
+266,Hide Secret Messages in PNG Files,2022-01-25,17694,654,41,Jan
+267,Password Strength Checker in Python,2022-01-23,13209,399,24,Jan
+268,3D Game Development in Python with Ursina,2022-01-21,155212,3425,126,Jan
+269,Pomodoro Timer GUI in Python,2022-01-19,14331,405,15,Jan
+270,Windows Tools Every (Power) User Should Use,2022-01-17,25389,452,35,Jan
+271,File Handling & Errors - C Programming Tutorial #10,2022-01-15,2418,123,12,Jan
+272,Pointers - C Programming Tutorial #9,2022-01-13,2398,163,13,Jan
+273,Bulk File Renaming Tool Project in Python,2022-01-11,7025,271,15,Jan
+274,Python Coding Conventions You Really Should Follow,2022-01-09,11692,460,21,Jan
+275,Arrays - C Programming Tutorial #8,2022-01-07,1850,128,7,Jan
+276,Functions - C Programming Tutorial #7,2022-01-05,1622,128,5,Jan
+277,Professional Data Encryption in Python,2022-01-03,26730,644,30,Jan
+278,Simple Mail Checker in Python,2022-01-01,39579,971,38,Jan
+279,Loops - C Programming Tutorial #6,2021-12-30,1634,117,7,Dec
+280,"Conditions, If Statements, Switch Case - C Programming Tutorial #5",2021-12-28,2891,149,7,Dec
+281,Simple HTTP Server in Python,2021-12-26,106043,1994,75,Dec
+282,How To Choose Secure Passwords,2021-12-24,3014,180,11,Dec
+283,"Typecasting, Constants & Strings - C Programming Tutorial #4",2021-12-22,1945,140,12,Dec
+284,Operators  - C Programming Tutorial #3,2021-12-20,2170,165,12,Dec
+285,The Simplest Python Chat You Can Build,2021-12-18,34457,1141,61,Dec
+286,NeoVim Plugins You Don't Want To Miss,2021-12-16,59808,1051,64,Dec
+287,Data Types & Variables  - C Programming Tutorial #2,2021-12-14,5115,321,28,Dec
+288,Motivation & First Program - C Programming Tutorial #1,2021-12-12,10714,838,75,Dec
+289,Find Your Files INSTANTLY on Windows,2021-12-10,7576,413,42,Dec
+290,Counting My Bicep Curl Reps in Python with AI,2021-12-08,9262,552,50,Dec
+291,Analyzing Financial Statements in Python,2021-12-06,42659,835,20,Dec
+292,Randomness in C is not so simple...,2021-12-04,3285,233,23,Dec
+293,100k Subscriber Special - Unboxing The Play Button,2021-12-02,1890,249,112,Dec
+294,Asymmetric Encryption With OpenSSL (Private Key & Public Key),2021-11-30,7419,271,10,Nov
+295,Symmetric Encryption With OpenSSL,2021-11-28,8344,332,13,Nov
+296,Instagram Hashtag Generator in Python,2021-11-26,4850,197,12,Nov
+297,Multiplayer Tic-Tac-Toe Game in Python,2021-11-24,24023,609,28,Nov
+298,Speed Typing Test in Python,2021-11-22,21844,555,35,Nov
+299,Will GitHub Copilot Replace Programmers?,2021-11-20,5575,278,37,Nov
+300,Coding A Countdown Timer in Python,2021-11-18,33736,639,46,Nov
+301,Simple TCP Chat Room in Java,2021-11-16,52496,1263,64,Nov
+302,Building A Simple REST API with FastAPI in Python,2021-11-14,27320,749,27,Nov
+303,Vim Macros Are A Game Changer,2021-11-12,10063,356,25,Nov
+304,Simple Todo GUI App in Python,2021-11-10,9158,317,12,Nov
+305,Awesome PyCharm Setup - Full Guide,2021-11-08,114013,1695,34,Nov
+306,x86 Assembly - Hello World Explained,2021-11-06,30968,1150,72,Nov
+307,"Python's ""is"" and ""=="" are more complex than you think...",2021-11-04,28574,1161,83,Nov
+308,Visualizing Sorting Algorithms in Python,2021-11-02,13429,485,15,Nov
+309,Be Careful When Using scanf() in C,2021-10-31,111063,5025,211,Oct
+310,How To Use Proxy Servers in Python,2021-10-29,48101,1248,66,Oct
+311,TCP vs UDP Sockets in Python,2021-10-27,18966,638,29,Oct
+312,Awesome Neovim Setup From Scratch - Full Guide,2021-10-25,442890,6663,289,Oct
+313,AI Crypto Trading Bots For Beginners - Pionex Tutorial,2021-10-23,25201,537,51,Oct
+314,Recursion Simply Explained,2021-10-21,5534,276,22,Oct
+315,How You Should Split Your Datasets in Machine Learning,2021-10-19,6325,235,19,Oct
+316,Should ALL Programmers Use Linux?,2021-10-17,6704,385,77,Oct
+317,What is The Walrus Operator in Python?,2021-10-15,12251,756,52,Oct
+318,Make Images Readable Again in Python,2021-10-13,10359,451,21,Oct
+319,Mail Client with GUI in Python,2021-10-11,13218,488,30,Oct
+320,TOO MUCH FOR MY BRAIN... - Let's Code Codewars,2021-10-09,8865,309,22,Oct
+321,Extract Text From Images in Python (OCR),2021-10-07,126747,2105,61,Oct
+322,Professional 3D Plotting in Matplotlib,2021-10-05,65889,1536,53,Oct
+323,Install Vim Bindings in Jupyter Notebook,2021-10-03,7566,164,9,Oct
+324,Hide & Encrypt Your Secret Files With VeraCrypt,2021-10-01,13316,412,27,Oct
+325,Tkinter Beginner Course - Python GUI Development,2021-09-29,210952,4579,153,Sep
+326,Simple Android Calculator App in Python,2021-09-27,28721,764,41,Sep
+327,Bitwise Operators in Python - Tutorial & Application Fields,2021-09-25,16222,640,34,Sep
+328,Simple GUI Text Editor in Python,2021-09-23,15082,426,18,Sep
+329,Minimal Flask REST API in Python,2021-09-21,27335,672,56,Sep
+330,Paint Clone in Python,2021-09-19,10873,422,35,Sep
+331,Is Plotly The Better Matplotlib?,2021-09-17,72168,1849,66,Sep
+332,Python GUI Development Using PyQt5,2021-09-15,109415,2439,84,Sep
+333,Hide Information in JPEG Files,2021-09-13,143972,7335,305,Sep
+334,Why is 0.1 + 0.2 Not 0.3 in Python?,2021-09-11,13393,619,41,Sep
+335,What is Python's Main Function Useful For?,2021-09-09,48911,2040,61,Sep
+336,Android Chat App in Python,2021-09-07,55792,1547,78,Sep
+337,Coding A Simple Web Browser in Python,2021-09-05,62853,1730,117,Sep
+338,Create Custom Matplotlib Style Sheets,2021-09-03,5326,241,13,Sep
+339,Linux Terminal & GUI Inside of Windows 10 (WSL),2021-09-01,70832,1449,74,Sep
+340,Intelligent Telegram AI Classifies Images in Python,2021-08-30,13685,440,23,Aug
+341,Linear Regression From Scratch in Python (Mathematical),2021-08-28,70187,2259,96,Aug
+342,Full XML Processing Guide in Python,2021-08-26,40547,637,24,Aug
+343,Data Classes in Python Are The New Standard,2021-08-24,52703,2058,75,Aug
+344,"Logging in Python Crash Course - Security Levels, Log Files, Formatting",2021-08-22,11666,560,23,Aug
+345,Neural Network Python Project - Handwritten Digit Recognition,2021-08-20,92481,1943,92,Aug
+346,This is How I Produce My Content,2021-08-18,4710,277,38,Aug
+347,PIMP Your Windows Terminal To The Next Level,2021-08-16,9488,420,34,Aug
+348,Optimize Your Stock Portfolio With Python,2021-08-14,6918,251,10,Aug
+349,Create Your Own Telegram Bot With Python,2021-08-12,55747,1446,73,Aug
+350,Serialize Python Objects With Pickle,2021-08-10,22117,874,40,Aug
+351,Live Object Detection in Python,2021-08-08,82282,1970,106,Aug
+352,Stock Option Screener in Python,2021-08-06,9641,276,17,Aug
+353,JSON Tutorial in Python,2021-08-04,38684,1303,77,Aug
+354,Colorize Black & White Images in Python,2021-08-02,19507,550,72,Aug
+355,Android App Development in Python With Kivy,2021-07-31,183252,4343,265,Jul
+356,Make Your Python Code More Professional,2021-07-29,25412,893,39,Jul
+357,Excel Automation With Python,2021-07-27,12487,528,34,Jul
+358,Simple GUI Calculator in Python,2021-07-25,111588,2401,112,Jul
+359,Intelligent Discord AI Chatbot in Python,2021-07-23,48406,1291,163,Jul
+360,Unit Testing in Python,2021-07-21,15313,470,31,Jul
+361,Generating Hashtags & Phone Numbers  - Coding Challenges #3,2021-07-19,5192,247,14,Jul
+362,Sudoku Solver in Python,2021-07-17,24660,775,39,Jul
+363,Python Sockets Simply Explained,2021-07-15,101870,3527,140,Jul
+364,"Fitness, Music, Programming - Q&A #2",2021-07-13,3139,201,39,Jul
+365,Stock Market Clustering With Python,2021-07-11,7760,341,48,Jul
+366,How To Set Up A Linux Virtual Machine,2021-07-09,19805,415,52,Jul
+367,Crypto Trading Bot in Python For Coinbase,2021-07-07,54787,1302,138,Jul
+368,Algorithmic Trading Strategy in Python,2021-07-04,50876,1504,70,Jul
+369,MySQL Basics in Python,2021-07-02,13208,481,29,Jul
+370,How To Create Your Own First Website,2021-06-30,7389,359,41,Jun
+371,Stock Screener in Python,2021-06-28,34064,850,68,Jun
+372,Multiprocessing in Python,2021-06-26,60760,1653,101,Jun
+373,Balance Sheet Analysis in Python,2021-06-24,15232,540,25,Jun
+374,Why is Python So Slow & Does it Matter?,2021-06-22,11672,607,39,Jun
+375,Massively Speed-Up Python Code With Numba Compilation,2021-06-20,33112,922,76,Jun
+376,Three Python Games in Less Than 15 Minutes,2021-06-18,17277,607,44,Jun
+377,Revealing Your Coin Flip Scam using Statistics in Python,2021-06-16,2753,183,42,Jun
+378,Anagrams & Bit Counting - Coding Challenges #2,2021-06-14,6363,275,52,Jun
+379,Web Scraping Basics in Python,2021-06-13,17105,822,61,Jun
+380,Internet Speed Test with Python,2021-06-10,27608,1246,99,Jun
+381,What's New in Python 3.10?,2021-06-08,23295,805,51,Jun
+382,Multiple Clipboards using Python,2021-06-06,7024,299,30,Jun
+383,Answering Your Questions - Q&A #1,2021-06-04,4751,337,64,Jun
+384,Speed Up Your Code With Cython,2021-06-02,73747,2240,110,Jun
+385,Simple Discord Bot in Python,2021-05-31,17085,613,70,May
+386,Let's Code Codewars - Coding Challenges #1,2021-05-29,58056,1492,92,May
+387,Automated Twitter Bot in Python,2021-05-27,41236,1042,87,May
+388,Merge Sort in Python,2021-05-25,8206,296,21,May
+389,Discord Community Server Announcement,2021-05-23,2215,137,42,May
+390,Select - Go Programming Tutorial #10,2021-05-21,5418,193,15,May
+391,Goroutines - Go Programming Tutorial #9,2021-05-19,2023,108,5,May
+392,Matplotlib Animations in Python,2021-05-17,118348,2382,94,May
+393,Financial AI Assistant in Python,2021-05-15,24288,783,57,May
+394,Error Handling - Go Programming Tutorial #8,2021-05-13,1892,105,11,May
+395,Structs - Go Programming Tutorial #7,2021-05-11,1517,93,13,May
+396,Colored Console Output in Python,2021-05-09,29022,794,59,May
+397,Binary Search in Python,2021-05-07,8664,426,29,May
+398,Pointers - Go Programming Tutorial #6,2021-05-05,1694,103,7,May
+399,Functions - Go Programming Tutorial #5,2021-05-03,1650,103,30,May
+400,Coding A Pong Game in Python,2021-05-01,12293,441,66,May
+401,AsyncIO & Asynchronous Programming in Python,2021-04-29,95032,2948,107,Apr
+402,Range - Go Programming Tutorial #4,2021-04-27,1835,132,15,Apr
+403,"Arrays, Slices, Maps - Go Programming Tutorial #3",2021-04-25,2633,150,20,Apr
+404,Pokedex GUI in Python,2021-04-23,21874,634,66,Apr
+405,Zoom Clone in Python,2021-04-21,163590,5984,325,Apr
+406,"Basics, Variables, Loops - Go Programming Tutorial #2",2021-04-19,4706,274,50,Apr
+407,Introduction - Go Programming Tutorial #1,2021-04-17,8172,501,82,Apr
+408,Predicting Crypto Prices in Python,2021-04-15,105539,2799,276,Apr
+409,Intelligent Voice Assistant in Python,2021-04-13,156459,4735,370,Apr
+410,Creating Your Own Audiobooks in Python,2021-04-11,11622,570,55,Apr
+411,Simple Voice Chat in Python,2021-04-09,33866,1172,72,Apr
+412,Does Twitter Believe in Dogecoin? - Sentiment Analysis in Python,2021-04-07,9355,374,59,Apr
+413,Coding A Snake Game in Python,2021-04-05,42367,1153,139,Apr
+414,Simple Voice Recorder in Python,2021-04-03,37047,1117,100,Apr
+415,Speeding Up Python Code With Caching,2021-04-01,29970,1174,73,Apr
+416,C++ Full Beginner Crash Course,2021-03-30,16098,632,48,Mar
+417,Speech Recognition in Python,2021-03-28,106194,2625,167,Mar
+418,Speed Comparison - Python VS Go,2021-03-26,46793,1057,165,Mar
+419,Law of Large Numbers in Python,2021-03-24,5416,311,38,Mar
+420,Screen Recorder in Python,2021-03-22,32648,1266,129,Mar
+421,Simple Bitcoin Miner in Python,2021-03-20,91181,2367,381,Mar
+422,Simple Virtual Assistant in Python,2021-03-18,26334,906,69,Mar
+423,Ranking Programming Languages on Tiermaker,2021-03-16,14923,498,107,Mar
+424,Coding A Blockchain in Python,2021-03-14,146339,3876,150,Mar
+425,So You Want To Learn Python Fast...,2021-03-12,7982,614,88,Mar
+426,Analyzing Cryptocurrencies in Python,2021-03-10,31505,997,53,Mar
+427,The Art of Googling As A Programmer,2021-03-08,13015,761,83,Mar
+428,Coding Alexa Skills in Python,2021-03-06,52055,1186,69,Mar
+429,Composite Design Pattern - Advanced Python Tutorial #10,2021-03-04,19934,517,27,Mar
+430,Singleton Design Pattern - Advanced Python Tutorial #9,2021-03-02,38773,950,65,Mar
+431,Python Self-Study Curriculum (4 Weeks),2021-02-28,18072,1203,117,Feb
+432,My Neovim Setup,2021-02-26,28847,613,70,Feb
+433,Proxy Design Pattern - Advanced Python Tutorial #8,2021-02-24,21851,688,38,Feb
+434,Factory Design Pattern - Advanced Python Tutorial #7,2021-02-22,65184,1671,95,Feb
+435,Vim Crash Course For Beginners,2021-02-20,34711,1159,74,Feb
+436,Self-Driving AI Car Simulation in Python,2021-02-18,93334,3158,119,Feb
+437,Type Hinting - Advanced Python Tutorial #6,2021-02-16,36323,1070,56,Feb
+438,Encapsulation - Advanced Python Tutorial #5,2021-02-14,34680,1134,47,Feb
+439,Publish Your Own Python Package,2021-02-12,91992,2170,104,Feb
+440,Visualizing Bitcoin in Python,2021-02-10,11834,591,41,Feb
+441,Argument Parsing - Advanced Python Tutorial #4,2021-02-08,51017,1090,60,Feb
+442,Generators - Advanced Python Tutorial #3,2021-02-06,34046,1185,57,Feb
+443,Camera Chat in Python,2021-02-04,35382,1395,114,Feb
+444,Predicting Stock Prices in Python,2021-02-02,466372,14222,738,Feb
+445,Decorators - Advanced Python Tutorial #2,2021-01-31,53955,1777,99,Jan
+446,Magic Methods & Dunder - Advanced Python Tutorial #1,2021-01-29,146043,3677,121,Jan
+447,Simple GUI Chat in Python,2021-01-27,156670,4541,312,Jan
+448,Candlestick Charts in Python,2021-01-25,15936,625,31,Jan
+449,Typedef - C++ Tutorial For Beginners #24,2021-01-23,12486,308,27,Jan
+450,Structs - C++ Tutorial For Beginners #23,2021-01-21,5384,214,23,Jan
+451,Screen Sharing in Python,2021-01-19,69829,3367,235,Jan
+452,FTP Client in Python,2021-01-17,33413,1049,58,Jan
+453,Enums - C++ Tutorial For Beginners #22,2021-01-15,3795,166,24,Jan
+454,Preprocessor Directives - C++ Tutorial For Beginners #21,2021-01-13,14809,553,24,Jan
+455,QR Code Generator in Python,2021-01-11,36333,1415,109,Jan
+456,Simple Caesar Encryption in Python,2021-01-09,63881,1478,87,Jan
+457,Constants - C++ Tutorial For Beginners #20,2021-01-07,3614,136,19,Jan
+458,Pointers - C++ Tutorial For Beginners #19,2020-12-30,4185,216,60,Dec
+459,Top 5 Programming Languages For 2021,2020-12-28,9382,627,99,Dec
+460,Exception Handling - C++ Tutorial For Beginners #18,2020-12-26,7985,290,30,Dec
+461,Strings - C++ Tutorial For Beginners #17,2020-12-24,6145,227,20,Dec
+462,Arrays - C++ Tutorial For Beginners #16,2020-12-20,3515,171,12,Dec
+463,Global Variables - C++ Tutorial For Beginners #15,2020-12-18,8470,226,15,Dec
+464,Converting Video To GIF in Python,2020-12-16,10445,648,52,Dec
+465,Header Files - C++ Tutorial For Beginners #14,2020-12-14,85324,2012,107,Dec
+466,Call By Reference - C++ Tutorial For Beginners #13,2020-12-12,7801,326,36,Dec
+467,Functions - C++ Tutorial For Beginners #12,2020-12-08,3800,241,29,Dec
+468,Loops - C++ Tutorial For Beginners #11,2020-12-06,2831,165,16,Dec
+469,Intelligent AI Chatbot in Python,2020-12-04,757465,18307,977,Dec
+470,Switch Case - C++ Tutorial For Beginners #10,2020-12-02,3108,182,21,Dec
+471,Conditions - C++ Tutorial For Beginners #9,2020-11-30,5612,239,29,Nov
+472,Storage Classes - C++ Tutorial For Beginners #8,2020-11-26,10552,430,25,Nov
+473,Typecasting - C++ Tutorial For Beginners #7,2020-11-24,9690,349,13,Nov
+474,What's New in Python 3.9?,2020-11-22,26602,1033,66,Nov
+475,User Input - C++ Tutorial For Beginners #6,2020-11-20,4492,261,34,Nov
+476,Operators - C++ Tutorial For Beginners #5,2020-11-18,8174,294,36,Nov
+477,Variables & Data Types - C++ Tutorial For Beginners #4,2020-11-14,8060,424,33,Nov
+478,Hello World - C++ Tutorial For Beginners #3,2020-11-12,29984,764,54,Nov
+479,Installation - C++ Tutorial For Beginners #2,2020-11-08,10159,468,38,Nov
+480,Introduction - C++ Tutorial For Beginners #1,2020-11-06,17643,762,72,Nov
+481,Creating A Simple Hangman Game in Python,2020-11-04,73274,1613,83,Nov
+482,Convert Python To Exe Files,2020-10-28,64283,1802,172,Oct
+483,Simple Password Generator in Python,2020-10-26,65326,1940,111,Oct
+484,Amount of Digits in A Number - Python Tips and Tricks #16,2020-10-24,2818,146,12,Oct
+485,Most Frequent Value of A List - Python Tips and Tricks #15,2020-10-23,7907,226,13,Oct
+486,Slice Function - Python Tips and Tricks #14,2020-10-19,2626,117,7,Oct
+487,Merging Dictionaries - Python Tips and Tricks #13,2020-10-18,5836,163,5,Oct
+488,Swapping Variables - Python Tips and Tricks #12,2020-10-14,1969,97,3,Oct
+489,Zip Function - Python Tips and Tricks #11,2020-10-13,4102,210,5,Oct
+490,Twitter Sentiment Analysis in Python,2020-10-12,28711,566,36,Oct
+491,Docstrings - Python Tips and Tricks #10,2020-10-11,19918,449,17,Oct
+492,Join Function - Python Tips and Tricks #9,2020-10-10,13219,388,21,Oct
+493,Algorithms & Data Structures Full Crash Course,2020-10-08,81168,2494,93,Oct
+494,Reversing Lists - Python Tips and Tricks #8,2020-10-06,1943,89,7,Oct
+495,Any & All Functions - Python Tips and Tricks #7,2020-10-05,4527,165,9,Oct
+496,Technical Stock Analysis (RSI) in Python,2020-10-02,22138,529,41,Oct
+497,Enumeration - Python Tips and Tricks #6,2020-09-30,4276,170,14,Sep
+498,Lambda Expressions - Python Tips and Tricks #5,2020-09-28,4841,231,17,Sep
+499,Summarize News Articles with Machine Learning in Python,2020-09-27,29142,754,41,Sep
+500,Ternary Operator - Python Tips and Tricks #4,2020-09-26,8076,326,23,Sep
+501,Map Function - Python Tips and Tricks #3,2020-09-25,4144,198,13,Sep
+502,Building A Camera Classifier in Python,2020-09-24,12383,330,15,Sep
+503,String Formatting with F-Strings - Python Tips and Tricks #2,2020-09-23,4488,242,12,Sep
+504,List Comprehensions - Python Tips and Tricks #1,2020-09-22,12036,406,31,Sep
+505,Advanced TCP Chat Room in Python,2020-09-21,42181,1424,199,Sep
+506,B-Tree & B*-Tree Explained - Algorithms & Data Structures #23,2020-09-20,21164,310,13,Sep
+507,AVL Tree Explained - Algorithms & Data Structures #22,2020-09-18,1754,56,6,Sep
+508,Binary Search Tree Explained - Algorithms & Data Structures #21,2020-09-17,1503,60,2,Sep
+509,Heap Explained - Algorithms & Data Structures #20,2020-09-15,4977,182,15,Sep
+510,Queue & Priority Queue Explained - Algorithms & Data Structures #19,2020-09-12,14434,277,8,Sep
+511,Stack Explained - Algorithms & Data Structures #18,2020-09-11,913,47,3,Sep
+512,Linked List Explained - Algorithms & Data Structures #17,2020-09-10,1409,52,6,Sep
+513,Kruskal's Algorithm Explained - Algorithms & Data Structures #16,2020-09-07,1130,39,5,Sep
+514,Dijkstra's Algorithm Explained - Algorithms & Data Structures #15,2020-09-06,1558,57,6,Sep
+515,"Graph Theory and Searching Algorithms (BFS, DFS) - Algorithms & Data Structure #14",2020-09-05,1837,63,1,Sep
+516,Quick Sort Explained - Algorithms & Data Structures #13,2020-09-04,1211,56,5,Sep
+517,Simple Mail Client in Python,2020-09-03,41959,1508,114,Sep
+518,Merge Sort Explained - Algorithms & Data Structures #12,2020-09-01,1423,66,9,Sep
+519,Insertion Sort Explained - Algorithms & Data Structures #11,2020-08-31,1259,65,7,Aug
+520,Selection Sort Explained - Algorithms and Data Structures #10,2020-08-29,1548,62,4,Aug
+521,Bubble Sort Explained - Algorithms & Data Structures #9,2020-08-27,2396,95,4,Aug
+522,The Bible of Algorithms & Data Structures - Book Release,2020-08-25,2525,82,8,Aug
+523,Greedy Algorithms - Algorithms & Data Structures #8,2020-08-23,6570,182,12,Aug
+524,Analyzing Algorithms Tutorial - Algorithms & Data Structures,2020-08-14,7164,150,13,Aug
+525,Important Runtime Complexities - Algorithms & Data Structures #6,2020-08-07,2320,101,12,Aug
+526,Big-O Notation Explained - Algorithms & Data Structures #5,2020-08-01,3618,158,14,Aug
+527,Runtime Complexity Explained - Algorithms & Data Structures #4,2020-07-27,6271,252,24,Jul
+528,What Are Data Structures? - Algorithms & Data Structures #3,2020-07-24,4225,226,12,Jul
+529,What Are Algorithms? - Algorithms & Data Structures #2,2020-07-20,5735,300,21,Jul
+530,Introduction - Algorithms & Data Structures #1,2020-07-16,20123,611,53,Jul
+531,Simple Sentiment Text Analysis in Python,2020-07-02,44203,792,35,Jul
+532,S&P 500 Web Scraping with Python,2020-06-12,8317,241,15,Jun
+533,Edge Detection with OpenCV in Python,2020-05-17,16896,302,14,May
+534,Image Classification with Neural Networks in Python,2020-05-06,92390,1793,94,May
+535,Simple TCP Chat Room in Python,2020-05-01,157138,4376,334,May
+536,Top 5 Programming Languages To Learn in 2020,2020-04-28,1307,72,10,Apr
+537,Motion Filtering with OpenCV in Python,2020-04-21,13943,268,15,Apr
+538,Neural Networks Simply Explained (Theory),2020-04-17,3870,185,18,Apr
+539,Making Text Images Readable Again with Python and OpenCV,2020-04-10,7547,199,12,Apr
+540,Analyzing Coronavirus with Python (COVID-19),2020-03-27,8469,240,36,Mar
+541,Stock Portfolio Visualization with Matplotlib in Python,2020-03-09,9833,176,5,Mar
+542,Generating Poetic Texts with Recurrent Neural Networks in Python,2020-02-23,79494,1020,41,Feb
+543,Python Machine Learning Tutorial #8 - Handwritten Digit Recognition with Tensorflow,2020-02-13,75399,1504,123,Feb
+544,Python Machine Learning Tutorial #7 - Neural Networks,2020-02-08,5301,211,8,Feb
+545,Python Machine Learning Tutorial #6 - K-Means Clustering,2020-02-03,3611,126,4,Feb
+546,Python Machine Learning Tutorial #5 - Decision Trees and Random Forest Classification,2020-01-30,5731,191,14,Jan
+547,Python Machine Learning #4 - Support Vector Machines,2020-01-25,5474,222,2,Jan
+548,Python Machine Learning Tutorial #3 - K-Nearest Neighbors Classification,2020-01-21,7211,252,9,Jan
+549,Python Machine Learning Tutorial #2 - Linear Regression,2020-01-17,13236,421,22,Jan
+550,Python Machine Learning Tutorial #1 - What is Machine Learning?,2020-01-14,26050,620,20,Jan
+551,Python Data Science Tutorial #17 - Pandas Queries,2020-01-10,4759,156,11,Jan
+552,Python Data Science Tutorial #16 - Pandas Merging Data Frames,2020-01-07,1634,88,8,Jan
+553,Python Data Science Tutorial #15 - Pandas Sorting and Functions,2020-01-04,1724,88,0,Jan
+554,Python Data Science Tutorial #14 - Pandas Statistics,2019-12-31,3143,103,3,Dec
+555,Python Data Science Tutorial #13 - Pandas Data Frames,2019-12-29,2506,119,4,Dec
+556,Python Data Science Tutorial #12 - Pandas Series,2019-12-25,4904,145,7,Dec
+557,Python Data Science Tutorial #11 - 3D Plotting with Matplotlib,2019-12-23,34854,642,23,Dec
+558,Python Data Science Tutorial #10 - Scatter Plots with Matplotlib,2019-12-22,2022,86,0,Dec
+559,Python Data Science Tutorial #9 - Plotting Histograms with Matplotlib,2019-12-20,2646,106,1,Dec
+560,Python Data Science Tutorial #8 - Pie Charts with Matplotlib,2019-12-18,2335,106,3,Dec
+561,Python Data Science Tutorial #7 - Bar Charts with Matplotlib,2019-12-17,2306,106,8,Dec
+562,Python Data Science Tutorial #6 - Matplotlib Styling,2019-12-14,4228,143,2,Dec
+563,Python Data Science Tutorial #5 - Subplots and Multiple Windows,2019-12-12,4099,166,6,Dec
+564,Python Data Science Tutorial #4 - Plotting Functions With Matplotlib,2019-12-08,7954,249,9,Dec
+565,Python Data Science Tutorial #3 - Numpy Functions,2019-12-06,7773,252,9,Dec
+566,Python Data Science Tutorial #2 - NumPy Arrays,2019-12-03,9791,344,15,Dec
+567,Python Data Science Tutorial #1 - Anaconda and PyCharm Setup,2019-11-30,40739,669,21,Nov
+568,Python Intermediate Tutorial #11 - Logging,2019-11-29,8161,320,19,Nov
+569,Python Intermediate Tutorial #10 - XML Processing,2019-11-27,28517,525,45,Nov
+570,Python Intermediate Tutorial #9 - Recursion,2019-11-25,6705,228,20,Nov
+571,Python Intermediate Tutorial #8 - Database Programming,2019-11-23,37411,740,29,Nov
+572,Python Intermediate Tutorial #7 - Sockets and Network Programming,2019-11-21,15465,598,29,Nov
+573,Python Intermediate Tutorial #6 - Queues,2019-11-20,36744,900,18,Nov
+574,Python Intermediate Tutorial #5 - Events and Daemon Threads,2019-11-19,30037,919,30,Nov
+575,Python Intermediate Tutorial #4 - Synchronizing Threads,2019-11-16,23164,848,38,Nov
+576,Python Intermediate Tutorial #3 - Multithreading,2019-11-13,20732,903,37,Nov
+577,Python Intermediate Tutorial #2 - Inheritance,2019-11-11,17139,672,28,Nov
+578,Python Intermediate Tutorial #1 - Classes and Objects,2019-11-09,51865,1223,78,Nov
+579,Python Beginner Tutorial #10 - String Functions,2019-11-07,7467,313,24,Nov
+580,Python Beginner Tutorial #9 - File Operations,2019-11-05,13908,401,27,Nov
+581,Python Beginner Tutorial #8 - Exception Handling,2019-11-03,8389,325,8,Nov
+582,Python Beginner Tutorial #7 - Functions,2019-11-01,7513,296,11,Nov
+583,Python Beginner Tutorial #6 - Sequences and Collections,2019-10-30,13105,436,17,Oct
+584,Python Beginner Tutorial #5 - Loops,2019-10-28,8919,367,12,Oct
+585,Python Beginner Tutorial #4 - If Statements and Conditions,2019-10-25,8826,329,12,Oct
+586,Python Beginner Tutorial #3 - Operators and User Input,2019-10-23,12668,420,17,Oct
+587,Python Beginner Tutorial #2 - Variables and Data Types,2019-10-21,18252,542,16,Oct
+588,Python Beginner Tutorial #1 - Installation and First Program,2019-10-18,36435,939,23,Oct
+589,Visualizing Stock Data With Candlestick Charts in Python,2019-08-21,43250,719,53,Aug
+590,Python Machine Learning Tutorial #1 - What is Machine Learning?,2020-01-14,26050,620,20,Jan
+591,Python Data Science Tutorial #17 - Pandas Queries,2020-01-10,4759,156,11,Jan
+592,Python Data Science Tutorial #16 - Pandas Merging Data Frames,2020-01-07,1634,88,8,Jan
+593,Python Data Science Tutorial #15 - Pandas Sorting and Functions,2020-01-04,1724,88,0,Jan
+594,Python Data Science Tutorial #14 - Pandas Statistics,2019-12-31,3143,103,3,Dec
+595,Python Data Science Tutorial #13 - Pandas Data Frames,2019-12-29,2506,119,4,Dec
+596,Python Data Science Tutorial #12 - Pandas Series,2019-12-25,4904,145,7,Dec
+597,Python Data Science Tutorial #11 - 3D Plotting with Matplotlib,2019-12-23,34854,642,23,Dec
+598,Python Data Science Tutorial #10 - Scatter Plots with Matplotlib,2019-12-22,2022,86,0,Dec
+599,Python Data Science Tutorial #9 - Plotting Histograms with Matplotlib,2019-12-20,2646,106,1,Dec
+600,Python Data Science Tutorial #8 - Pie Charts with Matplotlib,2019-12-18,2335,106,3,Dec
+601,Python Data Science Tutorial #7 - Bar Charts with Matplotlib,2019-12-17,2306,106,8,Dec
+602,Python Data Science Tutorial #6 - Matplotlib Styling,2019-12-14,4228,143,2,Dec
+603,Python Data Science Tutorial #5 - Subplots and Multiple Windows,2019-12-12,4099,166,6,Dec
+604,Python Data Science Tutorial #4 - Plotting Functions With Matplotlib,2019-12-08,7954,249,9,Dec
+605,Python Data Science Tutorial #3 - Numpy Functions,2019-12-06,7773,252,9,Dec
+606,Python Data Science Tutorial #2 - NumPy Arrays,2019-12-03,9791,344,15,Dec
+607,Python Data Science Tutorial #1 - Anaconda and PyCharm Setup,2019-11-30,40739,669,21,Nov
+608,Python Intermediate Tutorial #11 - Logging,2019-11-29,8161,320,19,Nov
+609,Python Intermediate Tutorial #10 - XML Processing,2019-11-27,28517,525,45,Nov
+610,Python Intermediate Tutorial #9 - Recursion,2019-11-25,6705,228,20,Nov
+611,Python Intermediate Tutorial #8 - Database Programming,2019-11-23,37411,740,29,Nov
+612,Python Intermediate Tutorial #7 - Sockets and Network Programming,2019-11-21,15465,598,29,Nov
+613,Python Intermediate Tutorial #6 - Queues,2019-11-20,36744,900,18,Nov
+614,Python Intermediate Tutorial #5 - Events and Daemon Threads,2019-11-19,30037,919,30,Nov
+615,Python Intermediate Tutorial #4 - Synchronizing Threads,2019-11-16,23164,848,38,Nov
+616,Python Intermediate Tutorial #3 - Multithreading,2019-11-13,20732,903,37,Nov
+617,Python Intermediate Tutorial #2 - Inheritance,2019-11-11,17139,672,28,Nov
+618,Python Intermediate Tutorial #1 - Classes and Objects,2019-11-09,51865,1223,78,Nov
+619,Python Beginner Tutorial #10 - String Functions,2019-11-07,7467,313,24,Nov
+620,Python Beginner Tutorial #9 - File Operations,2019-11-05,13908,401,27,Nov
+621,Python Beginner Tutorial #8 - Exception Handling,2019-11-03,8389,325,8,Nov
+622,Python Beginner Tutorial #7 - Functions,2019-11-01,7513,296,11,Nov
+623,Python Beginner Tutorial #6 - Sequences and Collections,2019-10-30,13105,436,17,Oct
+624,Python Beginner Tutorial #5 - Loops,2019-10-28,8919,367,12,Oct
+625,Python Beginner Tutorial #4 - If Statements and Conditions,2019-10-25,8826,329,12,Oct
+626,Python Beginner Tutorial #3 - Operators and User Input,2019-10-23,12668,420,17,Oct
+627,Python Beginner Tutorial #2 - Variables and Data Types,2019-10-21,18252,542,16,Oct
+628,Python Beginner Tutorial #1 - Installation and First Program,2019-10-18,36435,939,23,Oct
+629,Visualizing Stock Data With Candlestick Charts in Python,2019-08-21,43250,719,53,Aug
